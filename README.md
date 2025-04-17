@@ -165,6 +165,9 @@ The **Free Version** of the **Spike NextJs Admin Template** provides a solid set
 <thead>
 <tr>
    <th> 
+      <span style="font-size: 16px;">All Access Pass</span>
+   </th>
+   <th> 
       <img src="https://skillicons.dev/icons?i=tailwind" height="20" alt="tailwind templates" style="margin-right: 8px;">
       <span style="font-size: 16px;">Tailwind</span>
    </th>
