@@ -7,7 +7,7 @@
 
 
 <h1 align="center">
-   <a href="https://www.wrappixel.com/templates/spike-next-js-free-admin-template/" target="_blank" align="center">
+   <a href="https://www.wrappixel.com/templates/spike-next-js-free-admin-template/?ref=376" target="_blank" align="center">
        Spike Next Js Free Admin Template
    </a>
 </h1>
@@ -15,7 +15,7 @@
 <p align="center">Download most useful and comprehensive 🚀 Free NextJs admin template built for developers 🛠</p>
 
 
-[![Spike Next Js Free Admin Template Demo Screenshot](https://www.wrappixel.com/wp-content/uploads/edd/2025/03/Spike-Nextjs-Free.jpg)](https://www.wrappixel.com/templates/spike-next-js-free-admin-template/)
+[![Spike Next Js Free Admin Template Demo Screenshot](https://www.wrappixel.com/wp-content/uploads/edd/2025/03/Spike-Nextjs-Free.jpg)](https://www.wrappixel.com/templates/spike-next-js-free-admin-template/?ref=376)
 
 
 ## 👋 Introduction
@@ -105,7 +105,7 @@ npm run dev
 
 Welcome to the **Spike Next Js Free Admin Template** documentation! Whether you're just getting started or looking to explore advanced features, this guide will help you set up and customize your project with ease.
 
-👉 **[Click here to read the full documentation](https://wrappixel.github.io/free-documentation-wp/nextjs/spike/index.html)**
+👉 **[Click here to read the full documentation](https://wrappixel.github.io/free-documentation-wp/nextjs/spike/index.html?ref=376)**
 
 
 ---
@@ -116,15 +116,15 @@ Welcome to the **Spike Next Js Free Admin Template** documentation! Whether you'
 The Pro Version of the **Spike NextJs Admin Template** comes packed with essential features—ideal for personal projects, prototypes, or small-scale applications. When you're ready to level up, the Pro Version unlocks a powerful suite of extras, including multiple theme options, advanced UI widgets, real-time notifications, priority support, and a host of other premium tools designed to supercharge your development workflow.
 
 <div style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://spike-nextjs-pro-main.vercel.app/" target="_blank">
+  <a href="https://spike-nextjs-pro-main.vercel.app/?ref=376" target="_blank">
     <img src="https://img.shields.io/badge/Try_the_Demo-Click_Here-blue" alt="Try the Demo">
   </a>
-  <a href="https://www.wrappixel.com/templates/spike-nextjs-admin-template/" target="_blank">
+  <a href="https://www.wrappixel.com/templates/spike-nextjs-admin-template/?ref=376" target="_blank">
     <img src="https://img.shields.io/badge/Download_Now-Click_Here-green" alt="Download Now">
   </a>
 </div>
 
-[![Modernize Free Bootstrap 5 Admin Template Demo Screenshot](https://www.wrappixel.com/wp-content/uploads/edd/2025/02/Spike_Paid_version_794X456.jpg)](https://www.wrappixel.com/templates/spike-nextjs-admin-template/)
+[![Modernize Free Bootstrap 5 Admin Template Demo Screenshot](https://www.wrappixel.com/wp-content/uploads/edd/2025/02/Spike_Paid_version_794X456.jpg)](https://www.wrappixel.com/templates/spike-nextjs-admin-template/?ref=376)
 
 
 
@@ -140,8 +140,8 @@ The **Free Version** of the **Spike NextJs Admin Template** provides a solid set
 
 | **Feature**                      | **Free Version**                       | **Pro Version**                                      |
 |-----------------------------------|----------------------------------------|-----------------------------------------------------|
-| **Demo**                          | [![Try the Demo](https://img.shields.io/badge/Try_the_Demo-Click_Here-blue)](https://spike-nextjs-free.vercel.app/)                               | [![Try the Demo](https://img.shields.io/badge/Try_the_Demo-Click_Here-blue)](https://spike-nextjs-pro-main.vercel.app/)                                              |
-| **Download**                      | [![Download Now](https://img.shields.io/badge/Download_Now-Click_Here-green)](https://www.wrappixel.com/templates/spike-next-js-free-admin-template/)                                | [![Download Now](https://img.shields.io/badge/Download_Now-Click_Here-green)](https://www.wrappixel.com/templates/spike-nextjs-admin-template/)                                          |
+| **Demo**                          | [![Try the Demo](https://img.shields.io/badge/Try_the_Demo-Click_Here-blue)](https://spike-nextjs-free.vercel.app/?ref=376)                               | [![Try the Demo](https://img.shields.io/badge/Try_the_Demo-Click_Here-blue)](https://spike-nextjs-pro-main.vercel.app/?ref=376)                                              |
+| **Download**                      | [![Download Now](https://img.shields.io/badge/Download_Now-Click_Here-green)](https://www.wrappixel.com/templates/spike-next-js-free-admin-template/?ref=376)                                | [![Download Now](https://img.shields.io/badge/Download_Now-Click_Here-green)](https://www.wrappixel.com/templates/spike-nextjs-admin-template/?ref=376)                                          |
 | **Responsive Design**             | ✅ Yes                                 | ✅ Yes                                              |
 | **Pre-designed Pages**            | ✅ Basic Pages                         | ✅ Advanced Pages (more layouts & options)           |
 | **Widgets**                       | ✅ Basic Widgets                       | ✅ Advanced Widgets (e.g., weather, charts, maps)    |
@@ -181,17 +181,17 @@ The **Free Version** of the **Spike NextJs Admin Template** provides a solid set
 <tbody>
 <tr>
 <td>
-  <a href="https://www.wrappixel.com/templates/spike-tailwind-admin-template/" width="150px">
+  <a href="https://www.wrappixel.com/templates/spike-tailwind-admin-template/?ref=376" width="150px">
     <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/spike-tailwind-css-admin-wpn.jpg" alt="" style="max-width:140px;">
   </a>
 </td>
 <td>
-  <a href="https://www.wrappixel.com/templates/spike-bootstrap-admin-dashboard/" width="150px">
+  <a href="https://www.wrappixel.com/templates/spike-bootstrap-admin-dashboard/?ref=376" width="150px">
     <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/spike-bootstrap-wpn.jpg" alt="" style="max-width:140px;">
   </a>
 </td>
 <td>
-  <a href="https://www.wrappixel.com/templates/spike-nuxtjs-admin-template/" width="150px">
+  <a href="https://www.wrappixel.com/templates/spike-nuxtjs-admin-template/?ref=376" width="150px">
     <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/spike-nuxtjs-admin-wpn.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
@@ -211,12 +211,12 @@ The **Free Version** of the **Spike NextJs Admin Template** provides a solid set
 <tbody>
 <tr>
 <td>
-  <a href="https://www.wrappixel.com/templates/spike-angular-admin-template/" width="150px">
+  <a href="https://www.wrappixel.com/templates/spike-angular-admin-template/?ref=376" width="150px">
     <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/spike-angular-admin-wpn.jpg" alt="" style="max-width:140px;">
   </a>
 </td>
 <td>
-  <a href="https://www.wrappixel.com/templates/spike-vuejs-admin-dashboard/" width="150px">
+  <a href="https://www.wrappixel.com/templates/spike-vuejs-admin-dashboard/?ref=376" width="150px">
     <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/spike-vuejs-vuetify-admin-wpn.jpg" alt="" style="max-width:150px;">
   </a>
 </td>  
@@ -258,16 +258,16 @@ Follow these simple steps to start contributing:
 ---
 
 ## 🧭 Useful Links
-- <p><a href="https://www.wrappixel.com/templates/category/admin-dashboard-templates/">Admin Templates</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/category/bootstrap-templates/">Bootstrap Templates</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/category/angular-templates/">Angular Templates</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/category/react-templates/">React Template</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/category/framer-templates/">Framer Templates</a> from Wrappixel</p>
--  <p><a href="https://www.wrappixel.com/templates/category/mui-templates/">Material UI Templates</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/category/vuetify-templates/">Vuetify Templates</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/category/nextjs-templates/">NextJs Templates</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/category/nuxt-templates/">Nuxt Templates</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/category/tailwind-dashboard/">Tailwind Templates</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/category/admin-dashboard-templates/?ref=376">Admin Templates</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/category/bootstrap-templates/?ref=376">Bootstrap Templates</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/category/angular-templates/?ref=376">Angular Templates</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/category/react-templates/?ref=376">React Template</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/category/framer-templates/?ref=376">Framer Templates</a> from Wrappixel</p>
+-  <p><a href="https://www.wrappixel.com/templates/category/mui-templates/?ref=376">Material UI Templates</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/category/vuetify-templates/?ref=376">Vuetify Templates</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/category/nextjs-templates/?ref=376">NextJs Templates</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/category/nuxt-templates/?ref=376">Nuxt Templates</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/category/tailwind-dashboard/?ref=376">Tailwind Templates</a> from Wrappixel</p>
 
 ---
 
