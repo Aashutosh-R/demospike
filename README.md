@@ -71,7 +71,7 @@ With the combined power of Next.js and MUI, Spike delivers a fast, scalable, and
 
 ## 💾 Installation Guide
 
-Welcome to the **# Spike Next Js Free Admin Template**! This guide will walk you through the installation and setup process, so you can get started with building your custom admin dashboard in no time.
+Welcome to the **Spike Next Js Free Admin Template**! This guide will walk you through the installation and setup process, so you can get started with building your custom admin dashboard in no time.
 
 ### 📝 Steps to Install
 
